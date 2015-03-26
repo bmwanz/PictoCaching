@@ -1,2 +1,2 @@
-# ece150final
-Pictocache: Final Project for ECE150
+# PictoCache
+A Project for ECE150
